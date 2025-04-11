@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Alvaro\\Documents\\Workspace\\raytracing\\raytracing\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{301808DA-84A4-49C5-A422-B0D367136D71}|raytracing.vcxproj|C:\\Users\\Alvaro\\Documents\\Workspace\\raytracing\\raytracing\\src\\utilities\\ray.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{301808DA-84A4-49C5-A422-B0D367136D71}|raytracing.vcxproj|solutionrelative:src\\utilities\\ray.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{301808DA-84A4-49C5-A422-B0D367136D71}|raytracing.vcxproj|C:\\Users\\Alvaro\\Documents\\Workspace\\raytracing\\raytracing\\src\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{301808DA-84A4-49C5-A422-B0D367136D71}|raytracing.vcxproj|solutionrelative:src\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{301808DA-84A4-49C5-A422-B0D367136D71}|raytracing.vcxproj|C:\\Users\\Alvaro\\Documents\\Workspace\\raytracing\\raytracing\\src\\utilities\\ray.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{301808DA-84A4-49C5-A422-B0D367136D71}|raytracing.vcxproj|solutionrelative:src\\utilities\\ray.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{301808DA-84A4-49C5-A422-B0D367136D71}|raytracing.vcxproj|C:\\Users\\Alvaro\\Documents\\Workspace\\raytracing\\raytracing\\src\\utilities\\color.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -26,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,7 +34,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "ray.h",
               "DocumentMoniker": "C:\\Users\\Alvaro\\Documents\\Workspace\\raytracing\\raytracing\\src\\utilities\\ray.h",
               "RelativeDocumentMoniker": "src\\utilities\\ray.h",
@@ -71,13 +71,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "main.cpp",
               "DocumentMoniker": "C:\\Users\\Alvaro\\Documents\\Workspace\\raytracing\\raytracing\\src\\main.cpp",
               "RelativeDocumentMoniker": "src\\main.cpp",
               "ToolTip": "C:\\Users\\Alvaro\\Documents\\Workspace\\raytracing\\raytracing\\src\\main.cpp",
               "RelativeToolTip": "src\\main.cpp",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABcAAAAuAAAA",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAAAkAAABHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-04-10T20:14:35.025Z",
               "EditorCaption": ""

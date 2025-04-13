@@ -1,7 +1,7 @@
 ﻿  main.cpp
   Generating code
-  12 of 27 functions (44.4%) were compiled, the rest were copied from previous compilation.
-    10 functions were new in current compilation
+  4 of 31 functions (12.9%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
     1 functions had inline decision re-evaluated but remain unchanged
   Finished generating code
   raytracing.vcxproj -> C:\Users\Alvaro\Documents\Workspace\raytracing\raytracing\x64\Release\raytracing.exe

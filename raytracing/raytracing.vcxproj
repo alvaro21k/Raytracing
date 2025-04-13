@@ -130,7 +130,9 @@
     <ClCompile Include="src\main.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="src\hittable\sphere.h" />
     <ClInclude Include="src\utilities\color.h" />
+    <ClInclude Include="src\hittable\hittable.h" />
     <ClInclude Include="src\utilities\ray.h" />
     <ClInclude Include="src\utilities\vec3.h" />
   </ItemGroup>

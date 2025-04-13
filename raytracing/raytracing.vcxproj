@@ -135,6 +135,7 @@
     <ClInclude Include="src\utilities\color.h" />
     <ClInclude Include="src\hittable\hittable.h" />
     <ClInclude Include="src\utilities\general.h" />
+    <ClInclude Include="src\utilities\interval.h" />
     <ClInclude Include="src\utilities\ray.h" />
     <ClInclude Include="src\utilities\vec3.h" />
   </ItemGroup>

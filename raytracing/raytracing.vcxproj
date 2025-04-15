@@ -132,6 +132,7 @@
   <ItemGroup>
     <ClInclude Include="src\hittable\hittable_list.h" />
     <ClInclude Include="src\hittable\sphere.h" />
+    <ClInclude Include="src\utilities\camera.h" />
     <ClInclude Include="src\utilities\color.h" />
     <ClInclude Include="src\hittable\hittable.h" />
     <ClInclude Include="src\utilities\general.h" />

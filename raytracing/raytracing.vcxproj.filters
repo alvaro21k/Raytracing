@@ -44,5 +44,8 @@
     <ClInclude Include="src\utilities\interval.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="src\utilities\camera.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
